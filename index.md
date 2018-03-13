@@ -9,7 +9,7 @@ My ultimate goal would be to maintain this page in order to sort and keep the re
 
 ## Unity3D Games
 
-### HOME (Under development)
+### [HOME (Under development)](https://github.com/Grog84/BigOne)
 
 Home is a game developed inside the Digital Bros Game Academy in a frame of collaboration with [Video Games Without Borders](http://vgwb.org/) (Pls try to find the time to have a look at their website, it really is an awesome project!!!)
 
@@ -21,8 +21,9 @@ My main contrbutions to the project are:
 - The AI of the guards and NPCs. The guards AI was implemented in the early stages of the project as a state machine usng a Scriptable Object implementation (still present, even if not used), but it was later modified using the behaviour trees. In the project it also possible to find a tool for the creation of the trees.
 - FMOD implementation of the 3D audio and dynamic music, including a terrain texture reading script that modifies the footstep sounds according to the surface.
 
+![Home Environment WIP Screenshot]({{ https://grog84.github.io }}/assets/environment - wip 06.jpg)
 
-### Maze Wielders
+### [Maze Wielders](https://github.com/Grog84/LabirintoMagico.git)
 
 Maze Wielders is a one month school project developed inside the Digital Bros Game Academy. It is a 2D turn based, multiplayer game that got its inspiration from the notorious board game *Labyrinth*. As in the board game, in Maze Wielders it is possible to slide the tiles forming the board in order to create new paths, but it is also possible to rotate them and to insert traps for the other players (that will become invisible and is up to them to remember where they are!) The goal of the game is to be the first player to grab the crystal at the center of the board and bring it to the base, causing a contnuos shifting of the playstyle from an everyone off against each other to an everyone off against the crystal carrier.
 
@@ -33,6 +34,16 @@ My main contrbutions to the project are:
 - UI animation
 
 ![Gameplay Screenshot]({{ https://grog84.github.io }}/assets/andrea-memeo-screenshots-0003-layer-17.jpg)
+
+### [C.U.R.C](https://github.com/Grog84/GGJ18)
+
+C.U.R.C (Clumsy Ufo Ray Controller) is the game realized during the 2018 Global Game Jam in Milan and proud winner of the WTF! award :P
+In C.U.R.C you are a nasty alien making use of your ufo ray in order to take control of a poor scientist and have the things going wild! Humorous sounds and messy characters makes the game worth a try.
+
+### [Don Cosciotte](https://github.com/Grog84/DBGAGameJam)
+
+C.U.R.C (Clumsy Ufo Ray Controller) is the game realized during the 2018 Global Game Jam in Milan and proud winner of the WTF! award :P
+In C.U.R.C you are a nasty alien making use of your ufo ray in order to take control of a poor scientist and have the things going wild! Humorous sounds and messy characters makes the game worth a try.
 
 ## Unity3D Exercises
 
