@@ -32,7 +32,7 @@ My main contrbutions to the project are:
 - The trap activation
 - UI animation
 
-
+![andrea-memeo-screenshots-0003-layer-17.jpg]({{ https://grog84.github.io }}/assets/image.png)
 
 ## Unity3D Exercises
 
