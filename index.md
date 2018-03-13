@@ -1,10 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome!!!
+
+Hello everyone,
+
+and welcome to my GitHub page. My name is Fabio Brigidi. I'm a Ph.D in Physics who recently moved to video games programming. In this GitHub page you will mostly find Unity projects and programming exercises of various nature. If there is anything you'd like to scrap from my code, go ahead do it, feel free to make use of it. If there is anything you'd like to ask me, please just write and I'll try my best to reach you :)
+
+My ultimate goal would be to maintain this page in order to sort and keep the repositories I am creating in order, but I'm not the best at it.. taht's why at the end of the page you will find a link to all my public repositories.
+
+
+### Unity3D Games
 
 You can use the [editor on GitHub](https://github.com/Grog84/Grog84.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Unity3D Exercises
+
+### C++ Exercises
+
+### Construct 2 Games
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
