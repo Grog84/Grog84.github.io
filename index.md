@@ -21,7 +21,9 @@ My main contributions to the project are:
 - The AI of the guards and NPCs. The guards AI was implemented in the early stages of the project as a state machine using a Scriptable Object implementation (still present, even if not used), but it was later modified using the behaviour trees. In the project it also possible to find a tool for the creation of the trees.
 - FMOD implementation of the 3D audio and dynamic music, including a terrain texture reading script that modifies the footstep sounds according to the surface.
 
+<p align="center">
 ![Home Environment WIP Screenshot]({{ https://grog84.github.io }}/assets/environment - wip 06.jpg){: .center-image }
+</p>
 
 ### [Maze Wielders](https://github.com/Grog84/LabirintoMagico.git)
 
@@ -33,14 +35,18 @@ My main contributions to the project are:
 - The trap activation
 - UI animation
 
+<p align="center">
 ![Gameplay Screenshot]({{ https://grog84.github.io }}/assets/andrea-memeo-screenshots-0003-layer-17.jpg){: .center-image }
+</p>
 
 ### [C.U.R.C](https://github.com/Grog84/GGJ18)
 
 C.U.R.C (Clumsy Ufo Ray Controller) is a game realized during the 2018 Global Game Jam in Milan and the proud winner of the **WTF!** award :P
 In C.U.R.C you play the role of a nasty alien who's making use of his U.F.O special ray in order to take control of a poor scientist and mess up his secret base. Very soon things are going wild! Humorous sounds and messy characters creates hilarious situations and makes the game worth a try.
 
+<p align="center">
 ![Gameplay Screenshots]({{ https://grog84.github.io }}/assets/curcScreenComb.png){: .center-image }
+</p>
 
 ### [Don Cosciotte](https://github.com/Grog84/DBGAGameJam)
 
