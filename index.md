@@ -41,7 +41,7 @@ My main contributions to the project are:
 C.U.R.C (Clumsy Ufo Ray Controller) is a game realized during the 2018 Global Game Jam in Milan and the proud winner of the **WTF!** award :P
 In C.U.R.C you play the role of a nasty alien who's making use of his U.F.O special ray in order to take control of a poor scientist and mess up his secret base. Very soon things are going wild! Humorous sounds and messy characters creates hilarious situations and makes the game worth a try.
 
-![Gameplay Screenshots]({{ https://grog84.github.io }}/assets/curcScreenComb.png)
+![Gameplay Screenshots]({{ https://grog84.github.io }}/assets/sc1.png)
 
 
 ### [Don Cosciotte](https://github.com/Grog84/DBGAGameJam)
