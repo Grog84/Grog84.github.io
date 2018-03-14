@@ -13,7 +13,8 @@ My ultimate goal would be to maintain this page in order to sort and keep the re
 
 Home is a game developed inside the Digital Bros Game Academy in a frame of collaboration with [Video Games Without Borders](http://vgwb.org/) (Pls try to find the time to have a look at their website, it really is an awesome project!!!)
 
-The game is a 3D story driven stealth game, aiming to describe the terrible transition of a normal and familiar place that everyone is calling home into a dangerous and hostile environment, leaving no other choice but to flee. The protagonists of the game are a mother and her child. In the game it is possible to take control of both characters shifting the gameplay from a more puzzle (mother) to action (child) oriented playstyle. 
+Home is a 3D story driven stealth game, describing the transition of a normal and familiar place into a dangerous and hostile environment, leaving no other choice but to flee.
+The protagonists of the story are a mother and her child trying to survive in an hostile environment.
 
 My main contributions to the project are:
 - A Scriptable Objects based state machine system used by the Game Manager and the playable characters.
