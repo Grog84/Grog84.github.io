@@ -40,6 +40,8 @@ My main contributions to the project are:
 C.U.R.C (Clumsy Ufo Ray Controller) is a game realized during the 2018 Global Game Jam in Milan and the proud winner of the **WTF!** award :P
 In C.U.R.C you play the role of a nasty alien who's making use of his U.F.O special ray in order to take control of a poor scientist and mess up his secret base. Very soon things are going wild! Humorous sounds and messy characters creates hilarious situations and makes the game worth a try.
 
+![Gameplay Screenshots]({{ https://grog84.github.io }}/assets/curcScreenComb.png)
+
 ### [Don Cosciotte](https://github.com/Grog84/DBGAGameJam)
 
 Don Cosciotte is a game created in occasion of the Digital Bros Game Jam. The game is a variation on the typical tower defense theme, mixing it with a little **Lemmings** touch. In Don Cosciotte you play as an invisible entity helping the main character, a worthless and dumb no-one, on his way to glory: swiping away traps and enemies you have to protect him while he crosses the level, but be aware that his way of thinking could be not that linear and easy to read. The game is filled with humorous touches, like shepherdess monsters, dumb sounds and rolling heads :)
