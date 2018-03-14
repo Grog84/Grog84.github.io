@@ -65,3 +65,5 @@ Don Cosciotte is a game created in occasion of the Digital Bros Game Jam. The ga
 ### [Shaman Queen](https://github.com/Grog84/Shaman)
 
 Shaman Queen is a three weeks project trying to recreate the same feeling of the 80s arcade games. Shaman Queen is an environmental puzzle game, where you play as shaman who can absorb the elements and move them around the map trying to overcome the obstacles. At the beginning of the game you find out that your power crystals were stolen leaving you almost powerless, with the only ability of moving earth. Recuperate your crystals and regain your powers in order to get your revenge!
+
+![SQ Screenshot]({{ https://grog84.github.io }}/assets/screen3.png)
