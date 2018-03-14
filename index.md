@@ -47,7 +47,9 @@ In C.U.R.C you play the role of a nasty alien who's making use of his U.F.O spec
 
 ### [Don Cosciotte](https://github.com/Grog84/DBGAGameJam)
 
-Don Cosciotte is a game created in occasion of the Digital Bros Game Jam. The game is a variation on the typical tower defense theme, mixing it with a little **Lemmings** touch. In Don Cosciotte you play as an invisible entity helping the main character, a worthless and dumb no-one, on his way to glory: swiping away traps and enemies you have to protect him while he crosses the level, but be aware that his way of thinking could be not that linear and easy to read. The game is filled with humorous touches, like shepherdess monsters, dumb sounds and rolling heads :)
+Don Cosciotte is a game created in occasion of the Digital Bros Game Jam. It is a variation on the typical tower defense theme, mixing it with a little **Lemmings** touch.
+In Don Cosciotte you play as an invisible entity helping the main character (a worthless and dumb Mr. No-one) in his path to glory.
+Swiping away traps and enemies you have to protect the Don while he crosses the level, but be aware: his way of thinking could not be as easy to read. The game is filled with humorous touches, like shepherdess monsters, dumb sounds and rolling heads :)
 
 ![Home Environment WIP Screenshot]({{ https://grog84.github.io }}/assets/screen3.png)
 
