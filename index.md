@@ -21,7 +21,11 @@ My main contributions to the project are:
 - The AI of the guards and NPCs. The guards AI was implemented in the early stages of the project as a state machine using a Scriptable Object implementation (still present, even if not used), but it was later modified using the behaviour trees. In the project it also possible to find a tool for the creation of the trees.
 - FMOD implementation of the 3D audio and dynamic music, including a terrain texture reading script that modifies the footstep sounds according to the surface.
 
-![Home Environment WIP Screenshot]({{ https://grog84.github.io }}/assets/environment - wip 06.jpg){: .center-image }
+<p align="center">
+  <img width="460" height="300" src="https://grog84.github.io/assets/environment">
+</p>
+
+<!-- ![Home Environment WIP Screenshot]({{ https://grog84.github.io }}/assets/environment - wip 06.jpg){: .center-image }
 
 ### [Maze Wielders](https://github.com/Grog84/LabirintoMagico.git)
 
