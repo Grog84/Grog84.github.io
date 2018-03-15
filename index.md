@@ -2,19 +2,18 @@
 
 Hello everyone,
 
-and welcome to my GitHub page. My name is **Fabio Brigidi**. I'm a Ph.D in Physics who recently moved to video games programming. In this GitHub page you will mostly find **Unity3D** projects and other programming exercises of various nature. If there is anything you'd like to scrap from my code, go ahead and feel free to do it. If there is anything you'd like to ask me, please just write and I'll try my best to reach you :)
+and welcome to my GitHub page. My name is **Fabio Brigidi**. I'm a Ph.D in Physics who recently decided to move towards video games programming. In this GitHub page you will find **Unity3D** projects and other programming exercises that I hope you will find useful. If there is anything you'd like to scrap from my code, go ahead and do it. If there is anything you'd like to ask me, please just write me and I'll try my best to reach you :)
 
-My ultimate goal would be to maintain this page in order to sort and keep the repositories I am creating in order, but I'm not the best at it.. that's why at the end of the page you will find a link to all my public repositories.
-
+I'd like to maintain this page up and running, but I'm not sure if I'm actually going to make it.. So in case you'd be interested in seeing some more yu might have a look at my GitHub profile yourself.
 
 ## Unity3D Games
 
 ### [HOME (Under development)](https://github.com/Grog84/BigOne)
 
-Home is a game developed inside the Digital Bros Game Academy in a frame of collaboration with [Video Games Without Borders](http://vgwb.org/) (Pls try to find the time to have a look at their website, it really is an awesome project!!!)
+Home is a game developed inside the Digital Bros Game Academy in a frame of collaboration with [Video Games Without Borders](http://vgwb.org/) (Pls take the time to have a look at their website, it is really an amazing project!!!)
 
 Home is a 3D story driven stealth game, describing the transition of a normal and familiar place into a dangerous and hostile environment, leaving no other choice but to flee.
-The protagonists of the story are a mother and her child trying to survive in an hostile environment.
+The protagonists of the story are a mother and her child trying to survive in a growing hostile environment.
 
 My main contributions to the project are:
 - A Scriptable Objects based state machine system used by the Game Manager and the playable characters.
@@ -26,30 +25,30 @@ My main contributions to the project are:
 
 ### [Maze Wielders](https://github.com/Grog84/LabirintoMagico.git)
 
-Maze Wielders is a one month school project developed inside the Digital Bros Game Academy. It is a 2D turn based, multiplayer game that got its inspiration from the notorious board game **Labyrinth**. As in the board game, in Maze Wielders it is possible to slide the tiles forming the board in order to create new paths, but it is also possible to rotate them and to insert traps for the other players (that will become invisible and is up to them to remember where they are!) The goal of the game is to be the first player to grab the crystal at the center of the board and bring it to the base, causing a continuous shifting of the playstyle from an everyone off against each other to an everyone off against the crystal carrier.
+Maze Wielders is a one month project developed inside the Digital Bros Game Academy. It is a 2D turn based, multiplayer game that got its inspiration from the notorious board game **Labyrinth**. As in the board game, in Maze Wielders it is possible to move the tiles forming the board in order to create new paths and impede the other players actions. Compared to the board game though, we added some extra feature like the abilty to rotate groups of tiles or to lay down hidden traps. The goal of the game is to be the first player to grab the crystal at the center of the board and bring it to his base. This dynamic causes a continuous shifting of the playstyle from an everyone off against each other to an everyone off against the one crystal carrier. The crystal will grant extra power, but will it be enough?
 
 My main contributions to the project are:
 - The turn manager
 - The lerping tiles system
 - The trap activation
-- UI animation
+- The UI animations
 
 ![Gameplay Screenshot]({{ https://grog84.github.io }}/assets/andrea-memeo-screenshots-0003-layer-17.jpg)
 
 
 ### [C.U.R.C](https://github.com/Grog84/GGJ18)
 
-C.U.R.C (Clumsy Ufo Ray Controller) is a game realized during the 2018 Global Game Jam in Milan and the proud winner of the **WTF!** award :P
-In C.U.R.C you play the role of a nasty alien who's making use of his U.F.O special ray in order to take control of a poor scientist and mess up his secret base. Very soon things are going wild! Humorous sounds and messy characters creates hilarious situations and makes the game worth a try.
+C.U.R.C (Clumsy Ufo Ray Controller) is a game realized in occasion of the 2018 Global Game Jam in Milan, and the proud winner of the **WTF!** award :P
+In C.U.R.C you play as a nasty alien who is making use of his U.F.O special ray in order to take control of a poor scientist and mess up his secret base. Very soon things are going wild! Humorous sounds and messy characters creates hilarious situations and makes the game worth a try.
 
 ![Gameplay Screenshots]({{ https://grog84.github.io }}/assets/sc1.png)
 
 
 ### [Don Cosciotte](https://github.com/Grog84/DBGAGameJam)
 
-Don Cosciotte is a game created in occasion of the Digital Bros Game Jam. It is a variation on the typical tower defense theme, mixing it with a little **Lemmings** touch.
+Don Cosciotte is another game jam project, created in occasion of the Digital Bros Game Jam 2018. It is a variation on the typical tower defense theme, adding to the mix a little **Lemmings** touch.
 In Don Cosciotte you play as an invisible entity helping the main character (a worthless and dumb Mr. No-one) in his path to glory.
-Swiping away traps and enemies you have to protect the Don while he crosses the level, but be aware: his way of thinking could not be as easy to read. The game is filled with humorous touches, like shepherdess monsters, dumb sounds and rolling heads :)
+Swiping away traps and enemies you have to protect the Don while he crosses the level, but be aware: his behaviour could not be that easy to read. The game is filled with humorous touches, like shepherdess monsters, dumb sounds and rolling heads :)
 
 ![Home Environment WIP Screenshot]({{ https://grog84.github.io }}/assets/screen3.png)
 
@@ -66,6 +65,6 @@ Swiping away traps and enemies you have to protect the Don while he crosses the 
 
 ### [Shaman Queen](https://github.com/Grog84/Shaman)
 
-Shaman Queen is a three weeks project trying to recreate the same feeling of the 80s arcade games. Shaman Queen is an environmental puzzle game, where you play as shaman who can absorb the elements and move them around the map trying to overcome the obstacles. At the beginning of the game you find out that your power crystals were stolen leaving you almost powerless, with the only ability of moving earth. Recuperate your crystals and regain your powers in order to get your revenge!
+Shaman Queen is a three weeks project trying to recreate the same feeling of the good old 80s arcade games. It is an environmental puzzle game, where you play as a shaman who can absorb the elements and relocate them in order to overcome the obstacles found on her way. At the beginning of the game your power crystals are stolen leaving you almost powerless, with the only ability of moving earth around. Recuperate your crystals, regain your powers, and get your revenge!
 
 ![SQ Screenshot]({{ https://grog84.github.io }}/assets/ShamQ_sc15.png)
