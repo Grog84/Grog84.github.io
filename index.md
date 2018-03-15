@@ -2,7 +2,7 @@
 
 Hello everyone,
 
-and welcome to my GitHub page. My name is **Fabio Brigidi**. I'm a Ph.D in Physics who recently decided to move towards video games programming. In this GitHub page you will find **Unity3D** projects and other programming exercises that I hope you will find useful. If there is anything you'd like to scrap from my code, go ahead and do it. If there is anything you'd like to ask me, please just write me and I'll try my best to reach you :)
+and welcome to my GitHub page. My name is **Fabio Brigidi**. I'm a Ph.D in Physics and former researcher who recently decided to move towards video games programming. In this GitHub page you will find **Unity3D** projects and other programming exercises that I hope you will find useful. If there is anything you'd like to scrap from my code, go ahead and do it. If there is anything you'd like to ask me, please just write me and I'll try my best to reach you :)
 
 I'd like to maintain this page up and running, but I'm not sure if I'm actually going to make it. So in case you'd be interested in seeing some more you might have a look at my GitHub profile yourself.
 
