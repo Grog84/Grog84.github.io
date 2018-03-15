@@ -4,7 +4,7 @@ Hello everyone,
 
 and welcome to my GitHub page. My name is **Fabio Brigidi**. I'm a Ph.D in Physics who recently decided to move towards video games programming. In this GitHub page you will find **Unity3D** projects and other programming exercises that I hope you will find useful. If there is anything you'd like to scrap from my code, go ahead and do it. If there is anything you'd like to ask me, please just write me and I'll try my best to reach you :)
 
-I'd like to maintain this page up and running, but I'm not sure if I'm actually going to make it.. So in case you'd be interested in seeing some more yu might have a look at my GitHub profile yourself.
+I'd like to maintain this page up and running, but I'm not sure if I'm actually going to make it. So in case you'd be interested in seeing some more you might have a look at my GitHub profile yourself.
 
 ## Unity3D Games
 
@@ -13,7 +13,7 @@ I'd like to maintain this page up and running, but I'm not sure if I'm actually 
 Home is a game developed inside the Digital Bros Game Academy in a frame of collaboration with [Video Games Without Borders](http://vgwb.org/) (Pls take the time to have a look at their website, it is really an amazing project!!!)
 
 Home is a 3D story driven stealth game, describing the transition of a normal and familiar place into a dangerous and hostile environment, leaving no other choice but to flee.
-The protagonists of the story are a mother and her child trying to survive in a growing hostile environment.
+The main characters of the story are a mother and her child trying to survive in a increasingly hostile environment.
 
 My main contributions to the project are:
 - A Scriptable Objects based state machine system used by the Game Manager and the playable characters.
@@ -25,7 +25,7 @@ My main contributions to the project are:
 
 ### [Maze Wielders](https://github.com/Grog84/LabirintoMagico.git)
 
-Maze Wielders is a one month project developed inside the Digital Bros Game Academy. It is a 2D turn based, multiplayer game that got its inspiration from the notorious board game **Labyrinth**. As in the board game, in Maze Wielders it is possible to move the tiles forming the board in order to create new paths and impede the other players actions. Compared to the board game though, we added some extra feature like the abilty to rotate groups of tiles or to lay down hidden traps. The goal of the game is to be the first player to grab the crystal at the center of the board and bring it to his base. This dynamic causes a continuous shifting of the playstyle from an everyone off against each other to an everyone off against the one crystal carrier. The crystal will grant extra power, but will it be enough?
+Maze Wielders is a one month project developed inside the Digital Bros Game Academy. It is a 2D turn based, multiplayer game that got its inspiration from the notorious board game **Labyrinth**. As in the board game, in Maze Wielders it is possible to move the tiles forming the board in order to create new paths and hinder other players from reaching their goals. Compared to the board game though, we added some extra feature like the abilty to rotate groups of tiles or to lay down hidden traps. The goal of the game is to be the first player to grab the crystal at the center of the board and bring it back to your base. This dynamic causes a continuous shifting of the playstyle from an everyone off against each other to an everyone off against the one crystal carrier. The crystal will grant extra power, but will it be enough?
 
 My main contributions to the project are:
 - The turn manager
@@ -38,8 +38,8 @@ My main contributions to the project are:
 
 ### [C.U.R.C](https://github.com/Grog84/GGJ18)
 
-C.U.R.C (Clumsy Ufo Ray Controller) is a game realized in occasion of the 2018 Global Game Jam in Milan, and the proud winner of the **WTF!** award :P
-In C.U.R.C you play as a nasty alien who is making use of his U.F.O special ray in order to take control of a poor scientist and mess up his secret base. Very soon things are going wild! Humorous sounds and messy characters creates hilarious situations and makes the game worth a try.
+C.U.R.C (Clumsy Ufo Ray Controller) is a game developed during the 2018 Global Game Jam in Milan, and the proud winner of the **WTF!** award :P
+In C.U.R.C you play as a nasty alien who is making use of his U.F.O special ray in order to take control of a poor scientist and mess up his secret base. Very soon things are going wild! Humorous sounds and messy characters create hilarious situations and make the game worth a try.
 
 ![Gameplay Screenshots]({{ https://grog84.github.io }}/assets/sc1.png)
 
@@ -47,7 +47,7 @@ In C.U.R.C you play as a nasty alien who is making use of his U.F.O special ray 
 ### [Don Cosciotte](https://github.com/Grog84/DBGAGameJam)
 
 Don Cosciotte is another game jam project, created in occasion of the Digital Bros Game Jam 2018. It is a variation on the typical tower defense theme, adding to the mix a little **Lemmings** touch.
-In Don Cosciotte you play as an invisible entity helping the main character (a worthless and dumb Mr. No-one) in his path to glory.
+In Don Cosciotte you play an invisible entity helping the main character (a worthless and dumb Mr. No-one) in his path to glory.
 Swiping away traps and enemies you have to protect the Don while he crosses the level, but be aware: his behaviour could not be that easy to read. The game is filled with humorous touches, like shepherdess monsters, dumb sounds and rolling heads :)
 
 ![Home Environment WIP Screenshot]({{ https://grog84.github.io }}/assets/screen3.png)
