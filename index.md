@@ -27,6 +27,8 @@ My main contributions to the project are:
 
 Maze Wielders is a one month project developed inside the Digital Bros Game Academy. It is a 2D turn based, multiplayer game that got its inspiration from the notorious board game **Labyrinth**. As in the board game, in Maze Wielders it is possible to move the tiles forming the board in order to create new paths and hinder other players from reaching their goals. Compared to the board game though, we added some extra feature like the abilty to rotate groups of tiles or to lay down hidden traps. The goal of the game is to be the first player to grab the crystal at the center of the board and bring it back to your base. This dynamic causes a continuous shifting of the playstyle from an everyone off against each other to an everyone off against the one crystal carrier. The crystal will grant extra power, but will it be enough?
 
+**NOTE: ** I'm currently working on a revision of the code. It is sill a WIP but the code is clean and easier to read. You can find it [HERE](https://github.com/Grog84/MazeWielders)
+
 My main contributions to the project are:
 - The turn manager
 - The lerping tiles system
